@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Full Stack GeoSpatial Development Course',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Spatial Data Analysis and Web Mapping',
   url: 'https://github.com',
   baseUrl: '/course-full-stack-geo/',
   onBrokenLinks: 'throw',
