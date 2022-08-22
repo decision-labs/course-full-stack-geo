@@ -36,7 +36,7 @@ PostGIS is a spatial database and an extension of PostgreSQL. It is used to perf
 ![](./videos/2022-08-15-15-23-55-connect-to-db-pgadmin.gif)
 
 
-## Download some data
+## Download no data
 
 ```sh
 wget link-to-geojson
