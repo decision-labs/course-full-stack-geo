@@ -1,4 +1,4 @@
-course-full-stack-geo
+#course-full-stack-geo
 1. Spatial Databases (PostGIS and SQL)
 2. Tile Servers (pg_tileserv)
 3. Frontend Mapping Library
