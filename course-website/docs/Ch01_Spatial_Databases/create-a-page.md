@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Spatial Database
 
-Spatial Databases store geographic information in the relational format including coordinates and topologies. There are two ways to represent data i.e. vectors and raster. Vector is high-quality geographical data, raster used to show patterns, made available large sets of data.
+Spatial Databases store geographic information in the relational format including coordinates and topologies(vectors and raster forms). There are two ways to represent data i.e. vectors and raster. Vector is high-quality geographical data, raster used to show patterns, made available large sets of data.
 
 ## PostGIS
 
