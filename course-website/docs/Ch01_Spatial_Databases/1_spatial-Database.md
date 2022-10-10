@@ -27,7 +27,7 @@ PostGIS is a spatial database and an extension of PostgreSQL. It is used to perf
 
 ## Creating Server and databases
 
-1. Install OGR2OG. (Using brew on Mac.)
+1. Install OGR2OG. (Using brew on Mac.) ([On Windows](https://www.youtube.com/watch?v=CDN9MRuuf9k&ab_channel=TheGeospatials))
 2. Open pgAdmin.
 3. Create Database.
 4. Type your password of the master user you created while installing
@@ -39,6 +39,7 @@ PostGIS is a spatial database and an extension of PostgreSQL. It is used to perf
 ## Download some data
 
 ```sh
-wget link-to-geojson
-ogr2ogr -f "PostgreSQL" PG:"dbname=mobilitydb user=docker password=docker" lahore-neighbourhoods.geojson -nln lahore_neighbourhoods
+ogr2ogr -f "PostgreSQL" PG:"dbname=lahore_db user=postgres password=1234" path/lahore-neighbourhoods.geojson -nln lahore_neighbourhoods
 ```
+Path in above command is used for complete path like C:/Downloads/data.geojson/
+## Query data
