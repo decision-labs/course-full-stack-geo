@@ -43,3 +43,9 @@ ogr2ogr -f "PostgreSQL" PG:"dbname=lahore_db user=postgres password=1234" path/l
 ```
 Path in above command is used for complete path like C:/Downloads/data.geojson/
 ## Query data
+1. Open pgadmin
+2. Refresh your database
+3. Check the newly created table
+4. Open the query tool
+5. Query your data
+![](./images/query-data.jpeg)
