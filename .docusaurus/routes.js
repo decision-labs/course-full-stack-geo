@@ -4,102 +4,102 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/course-full-stack-geo/__docusaurus/debug',
-    component: ComponentCreator('/course-full-stack-geo/__docusaurus/debug', '96f'),
+    component: ComponentCreator('/course-full-stack-geo/__docusaurus/debug', '38a'),
     exact: true
   },
   {
     path: '/course-full-stack-geo/__docusaurus/debug/config',
-    component: ComponentCreator('/course-full-stack-geo/__docusaurus/debug/config', '339'),
+    component: ComponentCreator('/course-full-stack-geo/__docusaurus/debug/config', '50b'),
     exact: true
   },
   {
     path: '/course-full-stack-geo/__docusaurus/debug/content',
-    component: ComponentCreator('/course-full-stack-geo/__docusaurus/debug/content', 'e5c'),
+    component: ComponentCreator('/course-full-stack-geo/__docusaurus/debug/content', '73d'),
     exact: true
   },
   {
     path: '/course-full-stack-geo/__docusaurus/debug/globalData',
-    component: ComponentCreator('/course-full-stack-geo/__docusaurus/debug/globalData', 'f8e'),
+    component: ComponentCreator('/course-full-stack-geo/__docusaurus/debug/globalData', '2d8'),
     exact: true
   },
   {
     path: '/course-full-stack-geo/__docusaurus/debug/metadata',
-    component: ComponentCreator('/course-full-stack-geo/__docusaurus/debug/metadata', '453'),
+    component: ComponentCreator('/course-full-stack-geo/__docusaurus/debug/metadata', '072'),
     exact: true
   },
   {
     path: '/course-full-stack-geo/__docusaurus/debug/registry',
-    component: ComponentCreator('/course-full-stack-geo/__docusaurus/debug/registry', 'c0c'),
+    component: ComponentCreator('/course-full-stack-geo/__docusaurus/debug/registry', '72b'),
     exact: true
   },
   {
     path: '/course-full-stack-geo/__docusaurus/debug/routes',
-    component: ComponentCreator('/course-full-stack-geo/__docusaurus/debug/routes', 'b64'),
+    component: ComponentCreator('/course-full-stack-geo/__docusaurus/debug/routes', '962'),
     exact: true
   },
   {
     path: '/course-full-stack-geo/blog',
-    component: ComponentCreator('/course-full-stack-geo/blog', 'c31'),
+    component: ComponentCreator('/course-full-stack-geo/blog', 'a36'),
     exact: true
   },
   {
     path: '/course-full-stack-geo/blog/archive',
-    component: ComponentCreator('/course-full-stack-geo/blog/archive', 'e11'),
+    component: ComponentCreator('/course-full-stack-geo/blog/archive', '05a'),
     exact: true
   },
   {
     path: '/course-full-stack-geo/blog/first-blog-post',
-    component: ComponentCreator('/course-full-stack-geo/blog/first-blog-post', '184'),
+    component: ComponentCreator('/course-full-stack-geo/blog/first-blog-post', '0d0'),
     exact: true
   },
   {
     path: '/course-full-stack-geo/blog/long-blog-post',
-    component: ComponentCreator('/course-full-stack-geo/blog/long-blog-post', '224'),
+    component: ComponentCreator('/course-full-stack-geo/blog/long-blog-post', '218'),
     exact: true
   },
   {
     path: '/course-full-stack-geo/blog/mdx-blog-post',
-    component: ComponentCreator('/course-full-stack-geo/blog/mdx-blog-post', '186'),
+    component: ComponentCreator('/course-full-stack-geo/blog/mdx-blog-post', 'f3d'),
     exact: true
   },
   {
     path: '/course-full-stack-geo/blog/tags',
-    component: ComponentCreator('/course-full-stack-geo/blog/tags', '998'),
+    component: ComponentCreator('/course-full-stack-geo/blog/tags', '8fd'),
     exact: true
   },
   {
     path: '/course-full-stack-geo/blog/tags/docusaurus',
-    component: ComponentCreator('/course-full-stack-geo/blog/tags/docusaurus', 'f93'),
+    component: ComponentCreator('/course-full-stack-geo/blog/tags/docusaurus', '21b'),
     exact: true
   },
   {
     path: '/course-full-stack-geo/blog/tags/facebook',
-    component: ComponentCreator('/course-full-stack-geo/blog/tags/facebook', '4b7'),
+    component: ComponentCreator('/course-full-stack-geo/blog/tags/facebook', '8d9'),
     exact: true
   },
   {
     path: '/course-full-stack-geo/blog/tags/hello',
-    component: ComponentCreator('/course-full-stack-geo/blog/tags/hello', '490'),
+    component: ComponentCreator('/course-full-stack-geo/blog/tags/hello', 'f60'),
     exact: true
   },
   {
     path: '/course-full-stack-geo/blog/tags/hola',
-    component: ComponentCreator('/course-full-stack-geo/blog/tags/hola', '3b0'),
+    component: ComponentCreator('/course-full-stack-geo/blog/tags/hola', '570'),
     exact: true
   },
   {
     path: '/course-full-stack-geo/blog/welcome',
-    component: ComponentCreator('/course-full-stack-geo/blog/welcome', '8be'),
+    component: ComponentCreator('/course-full-stack-geo/blog/welcome', '1ec'),
     exact: true
   },
   {
     path: '/course-full-stack-geo/markdown-page',
-    component: ComponentCreator('/course-full-stack-geo/markdown-page', 'f3f'),
+    component: ComponentCreator('/course-full-stack-geo/markdown-page', '247'),
     exact: true
   },
   {
     path: '/course-full-stack-geo/docs',
-    component: ComponentCreator('/course-full-stack-geo/docs', '4e1'),
+    component: ComponentCreator('/course-full-stack-geo/docs', '84c'),
     routes: [
       {
         path: '/course-full-stack-geo/docs/category/-backend-frameworks',
@@ -285,7 +285,7 @@ export default [
   },
   {
     path: '/course-full-stack-geo/',
-    component: ComponentCreator('/course-full-stack-geo/', 'a12'),
+    component: ComponentCreator('/course-full-stack-geo/', 'b5b'),
     exact: true
   },
   {
