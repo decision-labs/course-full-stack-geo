@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Spatial-Databases/markdown-features",
+  "id": "Spatial-Databases/markdown-features",
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/docs/Spatial-Databases/markdown-features.mdx",
+  "sourceDirName": "Spatial-Databases",
+  "slug": "/Spatial-Databases/markdown-features",
+  "permalink": "/docs/Spatial-Databases/markdown-features",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Spatial-Databases/markdown-features.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Blog Post",
+    "permalink": "/docs/Spatial-Databases/create-a-blog-post"
+  },
+  "next": {
+    "title": "Deploy your site",
+    "permalink": "/docs/Spatial-Databases/deploy-your-site"
+  }
+}

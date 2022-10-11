@@ -1,0 +1,15 @@
+{
+  "title": "🗺 Tile Servers",
+  "slug": "/category/-tile-servers-1",
+  "permalink": "/docs/category/-tile-servers-1",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/docs/Frontend-mapping-Library/translate-your-site"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/Backend Framework/manage-docs-versions"
+    }
+  }
+}

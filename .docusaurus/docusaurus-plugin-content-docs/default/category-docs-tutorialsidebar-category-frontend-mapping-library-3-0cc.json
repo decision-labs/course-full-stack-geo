@@ -1,0 +1,16 @@
+{
+  "title": "🗾 Frontend Mapping Library",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/-frontend-mapping-library-3",
+  "permalink": "/docs/category/-frontend-mapping-library-3",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/docs/Deployement/translate-your-site"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/Monitoring/manage-docs-versions"
+    }
+  }
+}

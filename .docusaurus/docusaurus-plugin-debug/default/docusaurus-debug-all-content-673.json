@@ -1,0 +1,1195 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "className": "docs-version-current",
+          "path": "/course-full-stack-geo/docs",
+          "tagsPath": "/course-full-stack-geo/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "E:\\Spatial Labs\\course-full-stack-geo\\course-website\\sidebars.js",
+          "contentPath": "E:\\Spatial Labs\\course-full-stack-geo\\course-website\\docs",
+          "contentPathLocalized": "E:\\Spatial Labs\\course-full-stack-geo\\course-website\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "Ch01_Spatial_Databases/create-a-blog-post",
+              "id": "Ch01_Spatial_Databases/create-a-blog-post",
+              "title": "Create a Blog Post",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/Ch01_Spatial_Databases/create-a-blog-post.md",
+              "sourceDirName": "Ch01_Spatial_Databases",
+              "slug": "/Ch01_Spatial_Databases/create-a-blog-post",
+              "permalink": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/create-a-blog-post",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch01_Spatial_Databases/create-a-blog-post.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Data Warehouse",
+                "permalink": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/data-warehouse"
+              },
+              "next": {
+                "title": "Markdown Features",
+                "permalink": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/markdown-features"
+              }
+            },
+            {
+              "unversionedId": "Ch01_Spatial_Databases/create-a-document",
+              "id": "Ch01_Spatial_Databases/create-a-document",
+              "title": "Create a Document",
+              "description": "Documents are groups of pages connected through:",
+              "source": "@site/docs/Ch01_Spatial_Databases/create-a-document.md",
+              "sourceDirName": "Ch01_Spatial_Databases",
+              "slug": "/Ch01_Spatial_Databases/create-a-document",
+              "permalink": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/create-a-document",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch01_Spatial_Databases/create-a-document.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deploy your site",
+                "permalink": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/deploy-your-site"
+              },
+              "next": {
+                "title": "🗺 Tile Servers",
+                "permalink": "/course-full-stack-geo/docs/category/-tile-servers"
+              }
+            },
+            {
+              "unversionedId": "Ch01_Spatial_Databases/data-warehouse",
+              "id": "Ch01_Spatial_Databases/data-warehouse",
+              "title": "Data Warehouse",
+              "description": "A Data Warehouse (DW) is a relational database that is designed for query and analysis rather than transaction processing. It includes historical data derived from transaction data from single and multiple sources.",
+              "source": "@site/docs/Ch01_Spatial_Databases/2_data-warehouse.md",
+              "sourceDirName": "Ch01_Spatial_Databases",
+              "slug": "/Ch01_Spatial_Databases/data-warehouse",
+              "permalink": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/data-warehouse",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch01_Spatial_Databases/2_data-warehouse.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Spatial Database",
+                "permalink": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/spatial-Database"
+              },
+              "next": {
+                "title": "Create a Blog Post",
+                "permalink": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/create-a-blog-post"
+              }
+            },
+            {
+              "unversionedId": "Ch01_Spatial_Databases/deploy-your-site",
+              "id": "Ch01_Spatial_Databases/deploy-your-site",
+              "title": "Deploy your site",
+              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+              "source": "@site/docs/Ch01_Spatial_Databases/deploy-your-site.md",
+              "sourceDirName": "Ch01_Spatial_Databases",
+              "slug": "/Ch01_Spatial_Databases/deploy-your-site",
+              "permalink": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/deploy-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch01_Spatial_Databases/deploy-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Markdown Features",
+                "permalink": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/markdown-features"
+              },
+              "next": {
+                "title": "Create a Document",
+                "permalink": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/create-a-document"
+              }
+            },
+            {
+              "unversionedId": "Ch01_Spatial_Databases/markdown-features",
+              "id": "Ch01_Spatial_Databases/markdown-features",
+              "title": "Markdown Features",
+              "description": "Docusaurus supports Markdown and a few additional features.",
+              "source": "@site/docs/Ch01_Spatial_Databases/markdown-features.mdx",
+              "sourceDirName": "Ch01_Spatial_Databases",
+              "slug": "/Ch01_Spatial_Databases/markdown-features",
+              "permalink": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/markdown-features",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch01_Spatial_Databases/markdown-features.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Blog Post",
+                "permalink": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/create-a-blog-post"
+              },
+              "next": {
+                "title": "Deploy your site",
+                "permalink": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/deploy-your-site"
+              }
+            },
+            {
+              "unversionedId": "Ch01_Spatial_Databases/spatial-Database",
+              "id": "Ch01_Spatial_Databases/spatial-Database",
+              "title": "Spatial Database",
+              "description": "Spatial Databases store geographic information in the relational format including coordinates and topologies(vectors and raster forms). There are two ways to represent data i.e. vectors and raster. Vector is high-quality geographical data, raster used to show patterns, made available large sets of data.",
+              "source": "@site/docs/Ch01_Spatial_Databases/1_spatial-Database.md",
+              "sourceDirName": "Ch01_Spatial_Databases",
+              "slug": "/Ch01_Spatial_Databases/spatial-Database",
+              "permalink": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/spatial-Database",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch01_Spatial_Databases/1_spatial-Database.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "🌍 Spatial Databases",
+                "permalink": "/course-full-stack-geo/docs/category/-spatial-databases"
+              },
+              "next": {
+                "title": "Data Warehouse",
+                "permalink": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/data-warehouse"
+              }
+            },
+            {
+              "unversionedId": "Ch02_Pg_Tileserv/manage-docs-versions",
+              "id": "Ch02_Pg_Tileserv/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/Ch02_Pg_Tileserv/manage-docs-versions.md",
+              "sourceDirName": "Ch02_Pg_Tileserv",
+              "slug": "/Ch02_Pg_Tileserv/manage-docs-versions",
+              "permalink": "/course-full-stack-geo/docs/Ch02_Pg_Tileserv/manage-docs-versions",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch02_Pg_Tileserv/manage-docs-versions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "🗺 Tile Servers",
+                "permalink": "/course-full-stack-geo/docs/category/-tile-servers"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/course-full-stack-geo/docs/Ch02_Pg_Tileserv/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "Ch02_Pg_Tileserv/translate-your-site",
+              "id": "Ch02_Pg_Tileserv/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/Ch02_Pg_Tileserv/translate-your-site.md",
+              "sourceDirName": "Ch02_Pg_Tileserv",
+              "slug": "/Ch02_Pg_Tileserv/translate-your-site",
+              "permalink": "/course-full-stack-geo/docs/Ch02_Pg_Tileserv/translate-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch02_Pg_Tileserv/translate-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/course-full-stack-geo/docs/Ch02_Pg_Tileserv/manage-docs-versions"
+              },
+              "next": {
+                "title": "🗾 Frontend Mapping Library",
+                "permalink": "/course-full-stack-geo/docs/category/-frontend-mapping-library"
+              }
+            },
+            {
+              "unversionedId": "Ch03_Frontend_mapping_Library/manage-docs-versions",
+              "id": "Ch03_Frontend_mapping_Library/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/Ch03_Frontend_mapping_Library/manage-docs-versions.md",
+              "sourceDirName": "Ch03_Frontend_mapping_Library",
+              "slug": "/Ch03_Frontend_mapping_Library/manage-docs-versions",
+              "permalink": "/course-full-stack-geo/docs/Ch03_Frontend_mapping_Library/manage-docs-versions",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch03_Frontend_mapping_Library/manage-docs-versions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "🗾 Frontend Mapping Library",
+                "permalink": "/course-full-stack-geo/docs/category/-frontend-mapping-library"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/course-full-stack-geo/docs/Ch03_Frontend_mapping_Library/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "Ch03_Frontend_mapping_Library/translate-your-site",
+              "id": "Ch03_Frontend_mapping_Library/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/Ch03_Frontend_mapping_Library/translate-your-site.md",
+              "sourceDirName": "Ch03_Frontend_mapping_Library",
+              "slug": "/Ch03_Frontend_mapping_Library/translate-your-site",
+              "permalink": "/course-full-stack-geo/docs/Ch03_Frontend_mapping_Library/translate-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch03_Frontend_mapping_Library/translate-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/course-full-stack-geo/docs/Ch03_Frontend_mapping_Library/manage-docs-versions"
+              },
+              "next": {
+                "title": "💻 Frontend Framework",
+                "permalink": "/course-full-stack-geo/docs/category/-frontend-framework"
+              }
+            },
+            {
+              "unversionedId": "Ch04_Frontend_Framework/congratulations",
+              "id": "Ch04_Frontend_Framework/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+              "source": "@site/docs/Ch04_Frontend_Framework/congratulations.md",
+              "sourceDirName": "Ch04_Frontend_Framework",
+              "slug": "/Ch04_Frontend_Framework/congratulations",
+              "permalink": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/congratulations",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch04_Frontend_Framework/congratulations.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deploy your site",
+                "permalink": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/deploy-your-site"
+              },
+              "next": {
+                "title": "🏭 Backend Frameworks",
+                "permalink": "/course-full-stack-geo/docs/category/-backend-frameworks"
+              }
+            },
+            {
+              "unversionedId": "Ch04_Frontend_Framework/create-a-blog-post",
+              "id": "Ch04_Frontend_Framework/create-a-blog-post",
+              "title": "Create a Blog Post",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/Ch04_Frontend_Framework/create-a-blog-post.md",
+              "sourceDirName": "Ch04_Frontend_Framework",
+              "slug": "/Ch04_Frontend_Framework/create-a-blog-post",
+              "permalink": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/create-a-blog-post",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch04_Frontend_Framework/create-a-blog-post.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a D",
+                "permalink": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/create-a-document"
+              },
+              "next": {
+                "title": "Markdown Features",
+                "permalink": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/markdown-features"
+              }
+            },
+            {
+              "unversionedId": "Ch04_Frontend_Framework/create-a-document",
+              "id": "Ch04_Frontend_Framework/create-a-document",
+              "title": "Create a D",
+              "description": "Documents are groups of pages connected through:",
+              "source": "@site/docs/Ch04_Frontend_Framework/create-a-document.md",
+              "sourceDirName": "Ch04_Frontend_Framework",
+              "slug": "/Ch04_Frontend_Framework/create-a-document",
+              "permalink": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/create-a-document",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch04_Frontend_Framework/create-a-document.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Page",
+                "permalink": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/create-a-page"
+              },
+              "next": {
+                "title": "Create a Blog Post",
+                "permalink": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/create-a-blog-post"
+              }
+            },
+            {
+              "unversionedId": "Ch04_Frontend_Framework/create-a-page",
+              "id": "Ch04_Frontend_Framework/create-a-page",
+              "title": "Create a Page",
+              "description": "Add Markdown or React files to src/pages to create a standalone page:",
+              "source": "@site/docs/Ch04_Frontend_Framework/create-a-page.md",
+              "sourceDirName": "Ch04_Frontend_Framework",
+              "slug": "/Ch04_Frontend_Framework/create-a-page",
+              "permalink": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/create-a-page",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch04_Frontend_Framework/create-a-page.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "💻 Frontend Framework",
+                "permalink": "/course-full-stack-geo/docs/category/-frontend-framework"
+              },
+              "next": {
+                "title": "Create a D",
+                "permalink": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/create-a-document"
+              }
+            },
+            {
+              "unversionedId": "Ch04_Frontend_Framework/deploy-your-site",
+              "id": "Ch04_Frontend_Framework/deploy-your-site",
+              "title": "Deploy your site",
+              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+              "source": "@site/docs/Ch04_Frontend_Framework/deploy-your-site.md",
+              "sourceDirName": "Ch04_Frontend_Framework",
+              "slug": "/Ch04_Frontend_Framework/deploy-your-site",
+              "permalink": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/deploy-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch04_Frontend_Framework/deploy-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Markdown Features",
+                "permalink": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/markdown-features"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/congratulations"
+              }
+            },
+            {
+              "unversionedId": "Ch04_Frontend_Framework/markdown-features",
+              "id": "Ch04_Frontend_Framework/markdown-features",
+              "title": "Markdown Features",
+              "description": "Docusaurus supports Markdown and a few additional features.",
+              "source": "@site/docs/Ch04_Frontend_Framework/markdown-features.mdx",
+              "sourceDirName": "Ch04_Frontend_Framework",
+              "slug": "/Ch04_Frontend_Framework/markdown-features",
+              "permalink": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/markdown-features",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch04_Frontend_Framework/markdown-features.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Blog Post",
+                "permalink": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/create-a-blog-post"
+              },
+              "next": {
+                "title": "Deploy your site",
+                "permalink": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/deploy-your-site"
+              }
+            },
+            {
+              "unversionedId": "Ch05_Backend_Framework/manage-docs-versions",
+              "id": "Ch05_Backend_Framework/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/Ch05_Backend_Framework/manage-docs-versions.md",
+              "sourceDirName": "Ch05_Backend_Framework",
+              "slug": "/Ch05_Backend_Framework/manage-docs-versions",
+              "permalink": "/course-full-stack-geo/docs/Ch05_Backend_Framework/manage-docs-versions",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch05_Backend_Framework/manage-docs-versions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "🏭 Backend Frameworks",
+                "permalink": "/course-full-stack-geo/docs/category/-backend-frameworks"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/course-full-stack-geo/docs/Ch05_Backend_Framework/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "Ch05_Backend_Framework/translate-your-site",
+              "id": "Ch05_Backend_Framework/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/Ch05_Backend_Framework/translate-your-site.md",
+              "sourceDirName": "Ch05_Backend_Framework",
+              "slug": "/Ch05_Backend_Framework/translate-your-site",
+              "permalink": "/course-full-stack-geo/docs/Ch05_Backend_Framework/translate-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch05_Backend_Framework/translate-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/course-full-stack-geo/docs/Ch05_Backend_Framework/manage-docs-versions"
+              },
+              "next": {
+                "title": "🏗 Deployment",
+                "permalink": "/course-full-stack-geo/docs/category/-deployment"
+              }
+            },
+            {
+              "unversionedId": "Ch06_Deployement/manage-docs-versions",
+              "id": "Ch06_Deployement/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/Ch06_Deployement/manage-docs-versions.md",
+              "sourceDirName": "Ch06_Deployement",
+              "slug": "/Ch06_Deployement/manage-docs-versions",
+              "permalink": "/course-full-stack-geo/docs/Ch06_Deployement/manage-docs-versions",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch06_Deployement/manage-docs-versions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "🏗 Deployment",
+                "permalink": "/course-full-stack-geo/docs/category/-deployment"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/course-full-stack-geo/docs/Ch06_Deployement/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "Ch06_Deployement/translate-your-site",
+              "id": "Ch06_Deployement/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/Ch06_Deployement/translate-your-site.md",
+              "sourceDirName": "Ch06_Deployement",
+              "slug": "/Ch06_Deployement/translate-your-site",
+              "permalink": "/course-full-stack-geo/docs/Ch06_Deployement/translate-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch06_Deployement/translate-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/course-full-stack-geo/docs/Ch06_Deployement/manage-docs-versions"
+              },
+              "next": {
+                "title": "📟 Monitoring",
+                "permalink": "/course-full-stack-geo/docs/category/-monitoring"
+              }
+            },
+            {
+              "unversionedId": "Ch07_Monitoring/manage-docs-versions",
+              "id": "Ch07_Monitoring/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/Ch07_Monitoring/manage-docs-versions.md",
+              "sourceDirName": "Ch07_Monitoring",
+              "slug": "/Ch07_Monitoring/manage-docs-versions",
+              "permalink": "/course-full-stack-geo/docs/Ch07_Monitoring/manage-docs-versions",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch07_Monitoring/manage-docs-versions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "📟 Monitoring",
+                "permalink": "/course-full-stack-geo/docs/category/-monitoring"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/course-full-stack-geo/docs/Ch07_Monitoring/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "Ch07_Monitoring/translate-your-site",
+              "id": "Ch07_Monitoring/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/Ch07_Monitoring/translate-your-site.md",
+              "sourceDirName": "Ch07_Monitoring",
+              "slug": "/Ch07_Monitoring/translate-your-site",
+              "permalink": "/course-full-stack-geo/docs/Ch07_Monitoring/translate-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch07_Monitoring/translate-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/course-full-stack-geo/docs/Ch07_Monitoring/manage-docs-versions"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Tutorial Intro",
+              "description": "Let's discover the skills needed to create geospatial full applications.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/course-full-stack-geo/docs/intro",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "🌍 Spatial Databases",
+                "permalink": "/course-full-stack-geo/docs/category/-spatial-databases"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "🌍 Spatial Databases",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Ch01_Spatial_Databases/spatial-Database"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Ch01_Spatial_Databases/data-warehouse"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Ch01_Spatial_Databases/create-a-blog-post"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Ch01_Spatial_Databases/markdown-features"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Ch01_Spatial_Databases/deploy-your-site"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Ch01_Spatial_Databases/create-a-document"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/-spatial-databases",
+                  "permalink": "/course-full-stack-geo/docs/category/-spatial-databases"
+                }
+              },
+              {
+                "type": "category",
+                "label": "🗺 Tile Servers",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Ch02_Pg_Tileserv/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Ch02_Pg_Tileserv/translate-your-site"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/-tile-servers",
+                  "permalink": "/course-full-stack-geo/docs/category/-tile-servers"
+                }
+              },
+              {
+                "type": "category",
+                "label": "🗾 Frontend Mapping Library",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Ch03_Frontend_mapping_Library/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Ch03_Frontend_mapping_Library/translate-your-site"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/-frontend-mapping-library",
+                  "permalink": "/course-full-stack-geo/docs/category/-frontend-mapping-library"
+                }
+              },
+              {
+                "type": "category",
+                "label": "💻 Frontend Framework",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Ch04_Frontend_Framework/create-a-page"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Ch04_Frontend_Framework/create-a-document"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Ch04_Frontend_Framework/create-a-blog-post"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Ch04_Frontend_Framework/markdown-features"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Ch04_Frontend_Framework/deploy-your-site"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Ch04_Frontend_Framework/congratulations"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/-frontend-framework",
+                  "permalink": "/course-full-stack-geo/docs/category/-frontend-framework"
+                }
+              },
+              {
+                "type": "category",
+                "label": "🏭 Backend Frameworks",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Ch05_Backend_Framework/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Ch05_Backend_Framework/translate-your-site"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/-backend-frameworks",
+                  "permalink": "/course-full-stack-geo/docs/category/-backend-frameworks"
+                }
+              },
+              {
+                "type": "category",
+                "label": "🏗 Deployment",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Ch06_Deployement/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Ch06_Deployement/translate-your-site"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/-deployment",
+                  "permalink": "/course-full-stack-geo/docs/category/-deployment"
+                }
+              },
+              {
+                "type": "category",
+                "label": "📟 Monitoring",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Ch07_Monitoring/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Ch07_Monitoring/translate-your-site"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/-monitoring",
+                  "permalink": "/course-full-stack-geo/docs/category/-monitoring"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/course-full-stack-geo/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/course-full-stack-geo/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/course-full-stack-geo/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/course-full-stack-geo/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "slorber",
+                "yangshun"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/course-full-stack-geo/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\r\n\r\nSimply add Markdown files (or folders) to the `blog` directory.\r\n\r\nRegular blog authors can be added to `authors.yml`.\r\n\r\nThe blog post date can be extracted from filenames, such as:\r\n\r\n- `2019-05-30-welcome.md`\r\n- `2019-05-30-welcome/index.md`\r\n\r\nA blog post folder can be convenient to co-locate blog post images:\r\n\r\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\r\n\r\nThe blog supports tags as well!\r\n\r\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/course-full-stack-geo/blog/mdx-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/course-full-stack-geo/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/course-full-stack-geo/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/course-full-stack-geo/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\r\n\r\n:::tip\r\n\r\nUse the power of React to create interactive blog posts.\r\n\r\n```js\r\n<button onClick={() => alert('button clicked!')}>Click me!</button>\r\n```\r\n\r\n<button onClick={() => alert('button clicked!')}>Click me!</button>\r\n\r\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/course-full-stack-geo/blog/long-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/course-full-stack-geo/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/course-full-stack-geo/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/course-full-stack-geo/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/course-full-stack-geo/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\r\n\r\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\r\n\r\n<!--truncate-->\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\r\n\r\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/course-full-stack-geo/blog/first-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/course-full-stack-geo/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/course-full-stack-geo/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/course-full-stack-geo/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/course-full-stack-geo/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/course-full-stack-geo/blog/tags/facebook": {
+          "label": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/course-full-stack-geo/blog/tags/facebook",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/course-full-stack-geo/blog/tags/facebook",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/course-full-stack-geo/blog/tags/hello": {
+          "label": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/course-full-stack-geo/blog/tags/hello",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "long-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/course-full-stack-geo/blog/tags/hello",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/course-full-stack-geo/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/course-full-stack-geo/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "mdx-blog-post",
+                "long-blog-post",
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/course-full-stack-geo/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 4,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/course-full-stack-geo/blog/tags/hola": {
+          "label": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/course-full-stack-geo/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/course-full-stack-geo/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/course-full-stack-geo/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/course-full-stack-geo/",
+        "source": "@site/src/pages/index.tsx"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/course-full-stack-geo/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

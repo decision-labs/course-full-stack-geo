@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Ch01_Spatial_Databases/data-warehouse",
+  "id": "Ch01_Spatial_Databases/data-warehouse",
+  "title": "Data Warehouse",
+  "description": "A Data Warehouse (DW) is a relational database that is designed for query and analysis rather than transaction processing. It includes historical data derived from transaction data from single and multiple sources.",
+  "source": "@site/docs/Ch01_Spatial_Databases/2_data-warehouse.md",
+  "sourceDirName": "Ch01_Spatial_Databases",
+  "slug": "/Ch01_Spatial_Databases/data-warehouse",
+  "permalink": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/data-warehouse",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Ch01_Spatial_Databases/2_data-warehouse.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spatial Database",
+    "permalink": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/spatial-Database"
+  },
+  "next": {
+    "title": "Create a Blog Post",
+    "permalink": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/create-a-blog-post"
+  }
+}

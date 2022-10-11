@@ -1,0 +1,15 @@
+{
+  "title": "🗾 Frontend Mapping Library",
+  "slug": "/category/-frontend-mapping-library-1",
+  "permalink": "/docs/category/-frontend-mapping-library-1",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/docs/Deployement/translate-your-site"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/Monitoring/manage-docs-versions"
+    }
+  }
+}

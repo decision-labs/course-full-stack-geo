@@ -1,0 +1,16 @@
+{
+  "title": "🗺 Tile Servers",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/-tile-servers-2",
+  "permalink": "/docs/category/-tile-servers-2",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/docs/Frontend-mapping-Library/translate-your-site"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/Backend Framework/manage-docs-versions"
+    }
+  }
+}

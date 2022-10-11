@@ -1,0 +1,15 @@
+{
+  "title": "📟 Monitoring",
+  "slug": "/category/-monitoring",
+  "permalink": "/docs/category/-monitoring",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/docs/Ch06_Deployement/translate-your-site"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/Ch07_Monitoring/manage-docs-versions"
+    }
+  }
+}

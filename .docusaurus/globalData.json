@@ -1,0 +1,178 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/course-full-stack-geo/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/course-full-stack-geo/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Ch01_Spatial_Databases/create-a-blog-post",
+              "path": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ch01_Spatial_Databases/create-a-document",
+              "path": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ch01_Spatial_Databases/data-warehouse",
+              "path": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/data-warehouse",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ch01_Spatial_Databases/deploy-your-site",
+              "path": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ch01_Spatial_Databases/markdown-features",
+              "path": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ch01_Spatial_Databases/spatial-Database",
+              "path": "/course-full-stack-geo/docs/Ch01_Spatial_Databases/spatial-Database",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ch02_Pg_Tileserv/manage-docs-versions",
+              "path": "/course-full-stack-geo/docs/Ch02_Pg_Tileserv/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ch02_Pg_Tileserv/translate-your-site",
+              "path": "/course-full-stack-geo/docs/Ch02_Pg_Tileserv/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ch03_Frontend_mapping_Library/manage-docs-versions",
+              "path": "/course-full-stack-geo/docs/Ch03_Frontend_mapping_Library/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ch03_Frontend_mapping_Library/translate-your-site",
+              "path": "/course-full-stack-geo/docs/Ch03_Frontend_mapping_Library/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ch04_Frontend_Framework/congratulations",
+              "path": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ch04_Frontend_Framework/create-a-blog-post",
+              "path": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ch04_Frontend_Framework/create-a-document",
+              "path": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ch04_Frontend_Framework/create-a-page",
+              "path": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ch04_Frontend_Framework/deploy-your-site",
+              "path": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ch04_Frontend_Framework/markdown-features",
+              "path": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ch05_Backend_Framework/manage-docs-versions",
+              "path": "/course-full-stack-geo/docs/Ch05_Backend_Framework/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ch05_Backend_Framework/translate-your-site",
+              "path": "/course-full-stack-geo/docs/Ch05_Backend_Framework/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ch06_Deployement/manage-docs-versions",
+              "path": "/course-full-stack-geo/docs/Ch06_Deployement/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ch06_Deployement/translate-your-site",
+              "path": "/course-full-stack-geo/docs/Ch06_Deployement/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ch07_Monitoring/manage-docs-versions",
+              "path": "/course-full-stack-geo/docs/Ch07_Monitoring/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Ch07_Monitoring/translate-your-site",
+              "path": "/course-full-stack-geo/docs/Ch07_Monitoring/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/course-full-stack-geo/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-spatial-databases",
+              "path": "/course-full-stack-geo/docs/category/-spatial-databases",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-tile-servers",
+              "path": "/course-full-stack-geo/docs/category/-tile-servers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-frontend-mapping-library",
+              "path": "/course-full-stack-geo/docs/category/-frontend-mapping-library",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-frontend-framework",
+              "path": "/course-full-stack-geo/docs/category/-frontend-framework",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-backend-frameworks",
+              "path": "/course-full-stack-geo/docs/category/-backend-frameworks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-deployment",
+              "path": "/course-full-stack-geo/docs/category/-deployment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-monitoring",
+              "path": "/course-full-stack-geo/docs/category/-monitoring",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/course-full-stack-geo/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

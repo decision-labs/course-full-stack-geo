@@ -1,0 +1,15 @@
+{
+  "title": "📟 Monitoring",
+  "slug": "/category/-monitoring",
+  "permalink": "/course-full-stack-geo/docs/category/-monitoring",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/course-full-stack-geo/docs/Ch06_Deployement/translate-your-site"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/course-full-stack-geo/docs/Ch07_Monitoring/manage-docs-versions"
+    }
+  }
+}

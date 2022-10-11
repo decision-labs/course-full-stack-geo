@@ -1,0 +1,16 @@
+{
+  "title": "🌍 Spatial Databases",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/-spatial-databases",
+  "permalink": "/docs/category/-spatial-databases",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Spatial Database",
+      "permalink": "/docs/Ch01_Spatial_Databases/create-a-page"
+    }
+  }
+}

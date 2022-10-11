@@ -1,0 +1,15 @@
+{
+  "title": "🏭 Backend Frameworks",
+  "slug": "/category/-backend-frameworks",
+  "permalink": "/course-full-stack-geo/docs/category/-backend-frameworks",
+  "navigation": {
+    "previous": {
+      "title": "Congratulations!",
+      "permalink": "/course-full-stack-geo/docs/Ch04_Frontend_Framework/congratulations"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/course-full-stack-geo/docs/Ch05_Backend_Framework/manage-docs-versions"
+    }
+  }
+}

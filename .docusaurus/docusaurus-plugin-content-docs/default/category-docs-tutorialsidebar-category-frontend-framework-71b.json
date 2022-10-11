@@ -1,0 +1,16 @@
+{
+  "title": "💻 Frontend Framework",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/-frontend-framework",
+  "permalink": "/docs/category/-frontend-framework",
+  "navigation": {
+    "previous": {
+      "title": "Translate your site",
+      "permalink": "/docs/Ch03_Frontend_mapping_Library/translate-your-site"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/docs/Ch04_Frontend_Framework/create-a-page"
+    }
+  }
+}
