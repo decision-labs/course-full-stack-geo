@@ -27,7 +27,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "E:\\Spatial Labs\\course-full-stack-geo\\course-website\\sidebars.js",
+          "sidebarPath": "E:\\Spatial Labs\\course-full-stack-geo\\sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -35,7 +35,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "E:\\Spatial Labs\\course-full-stack-geo\\course-website\\src\\css\\custom.css"
+          "customCss": "E:\\Spatial Labs\\course-full-stack-geo\\src\\css\\custom.css"
         }
       }
     ]

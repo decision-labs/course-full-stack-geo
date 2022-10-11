@@ -14,9 +14,9 @@
           "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "E:\\Spatial Labs\\course-full-stack-geo\\course-website\\sidebars.js",
-          "contentPath": "E:\\Spatial Labs\\course-full-stack-geo\\course-website\\docs",
-          "contentPathLocalized": "E:\\Spatial Labs\\course-full-stack-geo\\course-website\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "E:\\Spatial Labs\\course-full-stack-geo\\sidebars.js",
+          "contentPath": "E:\\Spatial Labs\\course-full-stack-geo\\docs",
+          "contentPathLocalized": "E:\\Spatial Labs\\course-full-stack-geo\\i18n\\en\\docusaurus-plugin-content-docs\\current",
           "docs": [
             {
               "unversionedId": "Ch01_Spatial_Databases/create-a-blog-post",

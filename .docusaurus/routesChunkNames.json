@@ -1,51 +1,51 @@
 {
-  "/course-full-stack-geo/__docusaurus/debug-38a": {
+  "/course-full-stack-geo/__docusaurus/debug-96f": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---course-full-stack-geo-docusaurus-debugc-9-e-370"
+      "plugin": "plugin---course-full-stack-geo-docusaurus-debugfe-4-3e1"
     }
   },
-  "/course-full-stack-geo/__docusaurus/debug/config-50b": {
+  "/course-full-stack-geo/__docusaurus/debug/config-339": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---course-full-stack-geo-docusaurus-debugc-9-e-370"
+      "plugin": "plugin---course-full-stack-geo-docusaurus-debugfe-4-3e1"
     }
   },
-  "/course-full-stack-geo/__docusaurus/debug/content-73d": {
+  "/course-full-stack-geo/__docusaurus/debug/content-e5c": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---course-full-stack-geo-docusaurus-debugc-9-e-370"
+      "plugin": "plugin---course-full-stack-geo-docusaurus-debugfe-4-3e1"
     },
     "allContent": "allContent---course-full-stack-geo-docusaurus-debug-content-246-af4"
   },
-  "/course-full-stack-geo/__docusaurus/debug/globalData-2d8": {
+  "/course-full-stack-geo/__docusaurus/debug/globalData-f8e": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---course-full-stack-geo-docusaurus-debugc-9-e-370"
+      "plugin": "plugin---course-full-stack-geo-docusaurus-debugfe-4-3e1"
     }
   },
-  "/course-full-stack-geo/__docusaurus/debug/metadata-072": {
+  "/course-full-stack-geo/__docusaurus/debug/metadata-453": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---course-full-stack-geo-docusaurus-debugc-9-e-370"
+      "plugin": "plugin---course-full-stack-geo-docusaurus-debugfe-4-3e1"
     }
   },
-  "/course-full-stack-geo/__docusaurus/debug/registry-72b": {
+  "/course-full-stack-geo/__docusaurus/debug/registry-c0c": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---course-full-stack-geo-docusaurus-debugc-9-e-370"
+      "plugin": "plugin---course-full-stack-geo-docusaurus-debugfe-4-3e1"
     }
   },
-  "/course-full-stack-geo/__docusaurus/debug/routes-962": {
+  "/course-full-stack-geo/__docusaurus/debug/routes-b64": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---course-full-stack-geo-docusaurus-debugc-9-e-370"
+      "plugin": "plugin---course-full-stack-geo-docusaurus-debugfe-4-3e1"
     }
   },
-  "/course-full-stack-geo/blog-a36": {
+  "/course-full-stack-geo/blog-c31": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---course-full-stack-geo-blogcb-9-a74"
+      "plugin": "plugin---course-full-stack-geo-blog-913-afe"
     },
     "sidebar": "sidebar---course-full-stack-geo-blog-814-8dd",
     "items": [
@@ -64,49 +64,49 @@
     ],
     "metadata": "metadata---course-full-stack-geo-blog-3-ff-2d0"
   },
-  "/course-full-stack-geo/blog/archive-05a": {
+  "/course-full-stack-geo/blog/archive-e11": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---course-full-stack-geo-blogcb-9-a74"
+      "plugin": "plugin---course-full-stack-geo-blog-913-afe"
     },
     "archive": "archive---course-full-stack-geo-blog-archive-042-192"
   },
-  "/course-full-stack-geo/blog/first-blog-post-0d0": {
+  "/course-full-stack-geo/blog/first-blog-post-184": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---course-full-stack-geo-blogcb-9-a74"
+      "plugin": "plugin---course-full-stack-geo-blog-913-afe"
     },
     "sidebar": "sidebar---course-full-stack-geo-blog-814-8dd",
     "content": "content---course-full-stack-geo-blog-first-blog-poste-27-e67"
   },
-  "/course-full-stack-geo/blog/long-blog-post-218": {
+  "/course-full-stack-geo/blog/long-blog-post-224": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---course-full-stack-geo-blogcb-9-a74"
+      "plugin": "plugin---course-full-stack-geo-blog-913-afe"
     },
     "sidebar": "sidebar---course-full-stack-geo-blog-814-8dd",
     "content": "content---course-full-stack-geo-blog-long-blog-post-736-104"
   },
-  "/course-full-stack-geo/blog/mdx-blog-post-f3d": {
+  "/course-full-stack-geo/blog/mdx-blog-post-186": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---course-full-stack-geo-blogcb-9-a74"
+      "plugin": "plugin---course-full-stack-geo-blog-913-afe"
     },
     "sidebar": "sidebar---course-full-stack-geo-blog-814-8dd",
     "content": "content---course-full-stack-geo-blog-mdx-blog-post-593-dcc"
   },
-  "/course-full-stack-geo/blog/tags-8fd": {
+  "/course-full-stack-geo/blog/tags-998": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---course-full-stack-geo-blogcb-9-a74"
+      "plugin": "plugin---course-full-stack-geo-blog-913-afe"
     },
     "sidebar": "sidebar---course-full-stack-geo-blog-814-8dd",
     "tags": "tags---course-full-stack-geo-blog-tagsd-83-4c7"
   },
-  "/course-full-stack-geo/blog/tags/docusaurus-21b": {
+  "/course-full-stack-geo/blog/tags/docusaurus-f93": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---course-full-stack-geo-blogcb-9-a74"
+      "plugin": "plugin---course-full-stack-geo-blog-913-afe"
     },
     "sidebar": "sidebar---course-full-stack-geo-blog-814-8dd",
     "items": [
@@ -126,10 +126,10 @@
     "tag": "tag---course-full-stack-geo-blog-tags-docusaurus-9-d-0-176",
     "listMetadata": "listMetadata---course-full-stack-geo-blog-tags-docusaurusc-91-ab7"
   },
-  "/course-full-stack-geo/blog/tags/facebook-8d9": {
+  "/course-full-stack-geo/blog/tags/facebook-4b7": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---course-full-stack-geo-blogcb-9-a74"
+      "plugin": "plugin---course-full-stack-geo-blog-913-afe"
     },
     "sidebar": "sidebar---course-full-stack-geo-blog-814-8dd",
     "items": [
@@ -140,10 +140,10 @@
     "tag": "tag---course-full-stack-geo-blog-tags-facebook-49-c-dd2",
     "listMetadata": "listMetadata---course-full-stack-geo-blog-tags-facebook-0-bf-e90"
   },
-  "/course-full-stack-geo/blog/tags/hello-f60": {
+  "/course-full-stack-geo/blog/tags/hello-490": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---course-full-stack-geo-blogcb-9-a74"
+      "plugin": "plugin---course-full-stack-geo-blog-913-afe"
     },
     "sidebar": "sidebar---course-full-stack-geo-blog-814-8dd",
     "items": [
@@ -157,10 +157,10 @@
     "tag": "tag---course-full-stack-geo-blog-tags-hello-8-f-1-685",
     "listMetadata": "listMetadata---course-full-stack-geo-blog-tags-hellob-89-9ef"
   },
-  "/course-full-stack-geo/blog/tags/hola-570": {
+  "/course-full-stack-geo/blog/tags/hola-3b0": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---course-full-stack-geo-blogcb-9-a74"
+      "plugin": "plugin---course-full-stack-geo-blog-913-afe"
     },
     "sidebar": "sidebar---course-full-stack-geo-blog-814-8dd",
     "items": [
@@ -171,25 +171,25 @@
     "tag": "tag---course-full-stack-geo-blog-tags-hola-30-c-49d",
     "listMetadata": "listMetadata---course-full-stack-geo-blog-tags-holadd-5-eb6"
   },
-  "/course-full-stack-geo/blog/welcome-1ec": {
+  "/course-full-stack-geo/blog/welcome-8be": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---course-full-stack-geo-blogcb-9-a74"
+      "plugin": "plugin---course-full-stack-geo-blog-913-afe"
     },
     "sidebar": "sidebar---course-full-stack-geo-blog-814-8dd",
     "content": "content---course-full-stack-geo-blog-welcomed-9-f-892"
   },
-  "/course-full-stack-geo/markdown-page-247": {
+  "/course-full-stack-geo/markdown-page-f3f": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---course-full-stack-geo-markdown-pagec-40-029"
+      "plugin": "plugin---course-full-stack-geo-markdown-pageb-14-4d9"
     },
     "content": "content---course-full-stack-geo-markdown-page-393-1ed"
   },
-  "/course-full-stack-geo/docs-84c": {
+  "/course-full-stack-geo/docs-4e1": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "plugin---course-full-stack-geo-docs-97-e-023"
+      "plugin": "plugin---course-full-stack-geo-docs-2-d-8-1f6"
     },
     "versionMetadata": "versionMetadata---course-full-stack-geo-docs-935-b93"
   },
@@ -313,10 +313,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---course-full-stack-geo-docs-intro-0-e-3-6ce"
   },
-  "/course-full-stack-geo/-b5b": {
+  "/course-full-stack-geo/-a12": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
     "__context": {
-      "plugin": "plugin---course-full-stack-geo-markdown-pagec-40-029"
+      "plugin": "plugin---course-full-stack-geo-markdown-pageb-14-4d9"
     },
     "config": "config---course-full-stack-geo-5-e-9-ab8"
   }
