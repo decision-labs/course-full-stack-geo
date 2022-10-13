@@ -9,7 +9,7 @@ const config = {
   title: 'Full Stack GeoSpatial Development Course',
   tagline: 'Spatial Data Analysis and Web Mapping',
   url: 'https://github.com',
-  baseUrl: '/course-full-stack-geo/',
+  baseUrl: '/course-full-stack-geo/course-website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
