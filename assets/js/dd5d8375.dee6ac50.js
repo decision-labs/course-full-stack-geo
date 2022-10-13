@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcourse_website=self.webpackChunkcourse_website||[]).push([[6993],{6994:e=>{e.exports=JSON.parse('{"permalink":"/course-full-stack-geo/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
