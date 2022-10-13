@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcourse_website=self.webpackChunkcourse_website||[]).push([[9214],{6829:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/course-full-stack-geo/course-website/blog/tags/docusaurus","allTagsPath":"/course-full-stack-geo/course-website/blog/tags","count":4}')}}]);
