@@ -11,3 +11,20 @@ Data warehouse is essentially a collection of large amounts of historical data a
 ## Spatial Data warehouse:
 Spatial data warehouse describes a collection of **geospatial data** to support spatially related business activities and decision making. It provides a common data model that integrates seamlessly both spatial and non-spatial data.
 
+## Spatial Data Warehouse Architecture:
+
+![Data Warehouse Architecture](./videos/SDW-1.png)
+
+## Some Open Source Data warehouse:
+
+- [carto](https://carto.com/)
+- [Hydra](https://hydras.io/)
+- [PostGIS](https://postgis.net/)
+- [GeoServer](https://geoserver.org/)
+- [GeoMesa](https://www.geomesa.org/)
+- [GeoMoose](https://www.geomoose.org/)
+- [GeoNetwork](https://www.geonetwork-opensource.org/)
+- [GeoNode](https://geonode.org/)
+
+
+
